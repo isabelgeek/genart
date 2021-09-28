@@ -5,7 +5,8 @@
 
 ## DESCRIPTION
 A generative epic golden mesh living within the nullish of the black space.
-Click and hold to seed the random is required.
+Click and hold to seed the random was required.
+
 Visualize it to start a paranoid travel to nothing but the golden twilight space.
 
 ## OVERVIEW OF THE TECHNIQUES USED TO CREATE IT
