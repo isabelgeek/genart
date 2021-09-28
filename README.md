@@ -4,6 +4,8 @@
 
 https://github.com/isabelgeek/genart/blob/main/epic-golden-mesh.png
 
+![](epic-golden-mesh.png)
+
 ## DESCRIPTION
 
 A generative epic golden mesh living within the nullish of the black space.
